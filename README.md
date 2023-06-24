@@ -26,7 +26,7 @@ So every tags is like:
 1girl,brown_eyes,brown_hair,copyright_name,dress,fighting_stance,full_body,green_eyes,looking_at_viewer,red_dress,short_hair,solo,text_focus
 ```
 
-So I extract these tags to a raw datasets using huggingface **datasets**, then push it to huggingface. The link is https://huggingface.co/datasets/mio/danbooru2021-tags.
+So I extract these tags to a raw datasets using huggingface **datasets** and get **4,790,560** tags, then push it to huggingface. The link is https://huggingface.co/datasets/mio/danbooru2021-tags.
 
 
 `
