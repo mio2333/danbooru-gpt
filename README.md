@@ -3,6 +3,9 @@ GPT2 Model Trained On Millions Tags Of Danbooru Datasets.
 
 It can used for tags sampling for test.
 
+Datasets: [mio/danbooru2021-tags](https://huggingface.co/datasets/mio/danbooru2021-tags)
+Model: [mio/danbooru-gpt2](https://huggingface.co/mio/danbooru-gpt2)
+
 ## Datasets Preparation
 
 Danbooru Datasets can be downaloaded through https://gwern.net/danbooru2021
